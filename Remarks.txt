@@ -1,0 +1,31 @@
+Folks
+
+See some comments that you will help you out to build such project, before start it, let me explain that I m a noobie on elctronics, so code was created using CHAT GPT-4, so if you want to
+install it and try it, do that under your own risk and responsibility:
+
+1) For up loading of sketch I m using an IDE vrsion 2.3.2
+
+2) Before upload, ensure you already installed the proper library for ESP32 and also the additional libraries such as:
+
+Adafruit_NeoPixel.h
+BluetoothSerial.h
+HardwareSerial.h
+DFRobotDFPlayerMini.h
+
+3) Just use Micro SD with 1 Gig or less, DF Player does not like other sizes ( BIGGER THAN THAT);
+
+4) Before start upload of sketch, ensure wires TX/RX are disconected (between DFplayer and ESP), or you will can face some communications interferences between ESP32 x USB Port;
+
+5) do not start tests (lights and sounds) connected on your PC, use an external power source for that, or you can face some comm interferences between PC and ESP 32;
+
+6) For some short tests ou can power neopixels on ESP32, but I strong reccomend ...do not do that, if you are using just few leds ok, but for hundreds the current will be high and probably will burn ESP32;
+
+7) Put files (MP3) on the root of Micro sd, do not change names or create some folder....you will be in trouble, ESP will not able to read it, I suggest keep using 001.mp3, 002.MP3 and so on;
+
+8) Sketch has some comments along all code, so you can understand "where"to adjust if you would like to change collor, or flickering time for example;
+
+Last but not least comments....feel free to adjust or continuing develop code, I will just ask to keep us on the loop, so al members of our builders community would be able to get access....
+
+Good Lucky
+
+Dinho 1967

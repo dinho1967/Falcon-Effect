@@ -1,0 +1,10 @@
+Falcon Effects
+
+
+ 01 - ESP WROOM 32 with 30 pin  -  https://pt.aliexpress.com/item/1005006710228304.html?spm=a2g0o.order_list.order_list_main.54.21efcaa48GIsJ4&gatewayAdapt=glo2bra
+ 01 - DFPlayer Mini - https://pt.aliexpress.com/item/1005007067722433.html?spm=a2g0o.productlist.main.1.2ec67ff8e1MxWL&aem_p4p_detail=202510011249255809140231174720008248305&algo_pvid=895539e9-0e0a-4a50-96ca-ba78f135b79a&algo_exp_id=895539e9-0e0a-4a50-96ca-ba78f135b79a-0&pdp_ext_f=%7B%22order%22%3A%2225%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%219.06%218.79%21%21%2111.22%2110.89%21%402101c5ac17593481659046262ee7d6%2112000039298517549%21sea%21BR%211690281718%21X%211%210%21n_tag%3A-29919%3Bd%3Aa2490a38%3Bm03_new_user%3A-29895&curPageLogUid=qt9HUivzy6x3&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007067722433%7C_p_origin_prod%3A&search_p4p_id=202510011249255809140231174720008248305_1
+ 130 - NEOPIXELS - WS2812B - I bought a 60 led per meter / black PCb ) you can choose white for example)
+ 01 - Micro SD (1 Giga) - https://pt.aliexpress.com/item/1005004583033682.html?spm=a2g0o.productlist.main.3.44a5530empcmtA&algo_pvid=b0258ae9-d5cd-4dd2-840a-9b58524038c7&algo_exp_id=b0258ae9-d5cd-4dd2-840a-9b58524038c7-2&pdp_ext_f=%7B%22order%22%3A%2242%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%21101.85%2176.39%21%21%2117.67%2113.25%21%4021030ea417594253544664028e63c2%2112000029713356405%21sea%21BR%211690281718%21X%211%210%21n_tag%3A-29919%3Bd%3Aa2490a38%3Bm03_new_user%3A-29895&curPageLogUid=TRrCR3bxBJRx&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004583033682%7C_p_origin_prod%3A
+ 01 - Developmnt Board for ESP32 (30 PINS) - https://pt.aliexpress.com/item/1005006499319088.html?spm=a2g0o.order_list.order_list_main.199.21efcaa48GIsJ4&gatewayAdapt=glo2bra
+ 
+ Rmk - You be required some wires or dupont jumpers for cnx
